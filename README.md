@@ -1,59 +1,79 @@
-<br clear="both">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<picture><img src="https://i.pinimg.com/originals/92/5e/66/925e660439316870f1f89d0ca0cfcbba.gif" align="center" width="60"></picture>
+Hi humans! I'm Lilac ^^
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<br>
+
+## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVrcW1keXJ1em03NWJvNjV6dHI0cjJhbGZ2cGlkMXZzd3Q3anF6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3hoLIVAJYkz6T0Ichp/giphy.gif" width = 70px></picture> About me
+
+<picture> <img align="right" src="https://64.media.tumblr.com/f5f079255fcb8207510c5bb1f100b5ff/9b31aa8ffb0cac7c-1d/s500x750/443a6b3d2fbccfc9e85bc10292558ce9fd2969fe.gifv" width = 400px></picture>
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Computer Engineering` at `ATU`.
+- :nerd_face: Always `learning new things`.
+<br>
+<br>
+<br>
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My expertise
+
+<p>
+  
+- front-end：
+
+    [<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-circle&logo=html5&logoColor=white" title="HTML5"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+    [<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-circle&logo=css3&logoColor=white" title="CSS3"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    [<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-circle&logo=javascript&logoColor=%23F7DF1E" title="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    [<img alt="sass" src="https://img.shields.io/badge/sass-%239b59b6?style=flat-circle&logo=sass&logoColor=white" title="sass"/>](https://sass-lang.com/)
+    [<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23712cf9?style=flat-circle&logo=bootstrap&logoColor=white" title="bootstrap"/>](https://getbootstrap.com/)
+    [<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-circle&logo=tailwind-css&logoColor=white" title="TailwindCSS" />](https://tailwindcss.com/)
+  
+- Version Control：
+  
+    [<img alt="Git" src="https://img.shields.io/badge/Git-%23dddddc?style=flat-circle&logo=Git" title="Git"/>](https://git-scm.com/)
+    [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-circle&logo=GitHub" title="GitHub"/>](https://github.com/kiarashAlizadeh)
+    [<img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23e24329ad?style=flat-circle&logo=GitLab" title="GitLab"/>](https://gitlab.com/kiarash_alizadeh)
+
+- Graphic & Ui Design:
+  
+    [<img alt="Figma" src="https://img.shields.io/badge/Figma-white?style=flat-circle&logo=figma" title="Figma"/>](https://www.figma.com/)
+    [<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe_XD-white?style=flat-circle&logo=adobexd" title="Adobe XD"/>](https://helpx.adobe.com/support/xd.html)
+
+- 🌱 I’m currently learning
+[<img alt="React" src="https://img.shields.io/badge/React-%23001e36?style=flat-circle&logo=React" title="React"/>](https://react.dev/)
+&
+[<img alt="React Native" src="https://img.shields.io/badge/React_Native-%23001e36?style=flat-circle&logo=React" title="React Native"/>](https://reactnative.dev/)
+</p>
+
+<br>
+
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 Or in 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40em" align="center" alt="Contact KiarashAlizadeh on Telegram" title="Contact KiarashAlizadeh on Telegram"/>](https://t.me/kiarash_alizadeh) 
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow KiarashAlizadeh on Instagram" title="Follow KiarashAlizadeh on Instagram"/>](https://instagram.com/kiarash_alizadehh)
+[<img src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" height="40em" align="center" alt="Follow KiarashAlizadeh on Twitter" title="Follow KiarashAlizadeh on Twitter"/>](https://twitter.com/kiarashAlizadeh)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow KiarashAlizadeh on LinkedIn" title="Follow KiarashAlizadeh on LinkedIn"/>](https://www.linkedin.com/in/kiarash-alizadeh-13319222b)
+
+<br>
+ 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Language usage
 
 <div align="center">
-  <img height="320" src="https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s640x960/5fd277d0e7704f18f4ed337bd8297847011e031b.gifv"  />
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=kiarashAlizadeh&theme=gruvbox_light&layout=compact"/>
 </div>
 
-###
+<br>
 
-<h1 align="center">Hey 👋🏼 humans!<br>I'm lilac & I'm  a web developer 🪴</h1>
-
-###
-
-<h2 align="center">About me</h2>
-
-###
-
-<br clear="both">
-
-<p align="center">✨ Creating bugs since I was 7!<br>📚 I'm currently learning REACT<br>🪄 Fun fact: I can finish series just in one night!</p>
-
-###
-
-<h2 align="center">I code with</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="40" alt="bulma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
 
-###
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/kiarashAlizadeh/kiarashAlizadeh/blob/master/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=imlilac.imlilac&left_color=darkgreen&right_color=lightgreen"  />
-</div>
-
-###
