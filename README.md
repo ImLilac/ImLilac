@@ -52,10 +52,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/imlilac/imlilac/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=imlilac.imlilac&left_color=darkgreen&right_color=lightgreen"  />
 </div>
