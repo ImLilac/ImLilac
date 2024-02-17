@@ -54,10 +54,9 @@ Hi humans! I'm Lilac ^^
 
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 Or in 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40em" align="center" alt="Contact KiarashAlizadeh on Telegram" title="Contact KiarashAlizadeh on Telegram"/>](https://t.me/kiarash_alizadeh) 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow KiarashAlizadeh on Instagram" title="Follow KiarashAlizadeh on Instagram"/>](https://instagram.com/kiarash_alizadehh)
-[<img src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" height="40em" align="center" alt="Follow KiarashAlizadeh on Twitter" title="Follow KiarashAlizadeh on Twitter"/>](https://twitter.com/kiarashAlizadeh)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow KiarashAlizadeh on LinkedIn" title="Follow KiarashAlizadeh on LinkedIn"/>](https://www.linkedin.com/in/kiarash-alizadeh-13319222b)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40em" align="center" alt="Contact imlilac on Telegram" title="Contact imlilac on Telegram"/>](https://t.me/lilacVv) 
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow imlilac on Instagram" title="Follow imlilac on Instagram"/>](https://instagram.com/__imlilac)
+[<img src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" height="40em" align="center" alt="Follow imlilac on Twitter" title="Follow imlilac on Twitter"/>](https://twitter.com/_imlilac)
 
 <br>
  
